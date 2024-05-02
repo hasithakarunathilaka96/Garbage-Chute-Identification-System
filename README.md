@@ -11,6 +11,6 @@ Garbage Chute Identification system was implemented to detect whether garbage ch
 
 
 ###Run the following command to run the script###
-#python chute.py
+1. python chute.py
 
 		
